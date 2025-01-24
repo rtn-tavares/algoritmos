@@ -17,3 +17,7 @@ Aqui, você encontrará soluções simples para explorar fundamentos como lógic
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 - **Linguagem**: Python 3.12.7
 - **Editor recomendado**: VS Code, PyCharm ou qualquer outro editor de sua preferência.
+
+
+## :books: Referências
+- BHARGAVA, A.Y. Entendendo algoritmos. Um guia ilustrado para programadores e outros curiosos. Ed. Novatec, 2017.
