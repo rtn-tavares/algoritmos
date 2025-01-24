@@ -2,7 +2,7 @@
 
 ## 📖 Descrição do Projeto
 <p align="justify">
-Este repositório reúne exemplos de algoritmos implementados em Python que servem como um excelente ponto de partida para entender conceitos essenciais de programação. 
+Este repositório reúne exemplos de algoritmos implementados em Python que servem como um ponto de partida para entender conceitos essenciais de programação. 
 Aqui, você encontrará soluções simples para explorar fundamentos como lógica, estrutura de dados e paradigmas algorítmicos.
 </p>
 
